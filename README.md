@@ -1,7 +1,7 @@
 # Nicolas Carballo
 ### Frontend Developer
 
-4+ years building web apps — focused on clean UI, performance, and scalable frontend architecture.
+5+ years building web apps — focused on clean UI, performance, and scalable frontend architecture.
 
 ---
 
