@@ -16,7 +16,7 @@
 
 **GitHub Activity**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicocarballo21&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nicocarballo21&theme=default&hide_border=true)
 
 ---
 
