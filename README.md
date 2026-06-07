@@ -3,6 +3,8 @@
 
 5+ years building web apps — focused on clean UI, performance, and scalable frontend architecture.
 
+📍 Argentina &nbsp;|&nbsp; 🔭 Working at Humand &nbsp;|&nbsp; 📚 Learning AI-powered dev tooling
+
 ---
 
 **Tech Stack**
