@@ -1,7 +1,7 @@
 # Nicolas Carballo
 ### Frontend Developer
 
-5+ years building web apps — focused on clean UI, performance, and scalable frontend architecture.
+Frontend dev focused on React & TypeScript. Building HR products at Humand.
 
 📍 Argentina &nbsp;|&nbsp; 🔭 Working at Humand &nbsp;|&nbsp; 📚 Learning AI-powered dev tooling
 
